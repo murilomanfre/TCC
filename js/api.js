@@ -91,7 +91,7 @@ function processRiscoOptions(data) {
 
 function handleLoadFromGithub() {
   resetApplication();
-  var GITHUB_URL_BASE64 = "https://raw.githubusercontent.com/murilomanfre/itau.insights/main/dados.json";
+  var GITHUB_URL_BASE64 = "https://raw.githubusercontent.com/murilomanfre/TCC/refs/heads/main/dados.json";
 
   fetch(GITHUB_URL_BASE64, { cache: "no-store" })
     .then(function(response) {
