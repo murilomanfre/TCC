@@ -1,0 +1,1502 @@
+{
+  "Diferenciado Crédito Privado Renda Fixa": {
+    "cnpj": "20.335.522/0001-51",
+    "url": "https://maisretorno.com/fundo/itau-rf-diferenciado-cp-fi-financeiro-da-cic-rl-1"
+  },
+  "Privilege DI": {
+    "cnpj": "26.199.519/0001-34",
+    "url": "https://maisretorno.com/fundo/itau-privilege-rf-referenciado-di-fif-da-cic-rl"
+  },
+  "Itaú Global Dinâmico Renda Fixa Longo Prazo": {
+    "cnpj": "32.972.925/0001-90",
+    "url": "https://maisretorno.com/fundo/itau-global-dinamico-rf-lp-fi-financeiro-da-cic-rl"
+  },
+  "Itaú IPCA Action Renda Fixa": {
+    "cnpj": "40.815.071/0001-67",
+    "url": "https://maisretorno.com/fundo/itau-ipca-action-rf-lp-fif-da-cic-rl-1"
+  },
+  "Itaú Kinea Andes Renda Fixa CP LP": {
+    "cnpj": "42.698.158/0001-27",
+    "url": "https://maisretorno.com/fundo/itau-kinea-andes-rf-cp-fi-financeiro-da-cic-lp-rl"
+  },
+  "Itaú Legend Renda Fixa Longo Prazo": {
+    "cnpj": "29.197.055/0001-15",
+    "url": "https://maisretorno.com/fundo/itau-legend-rf-lp-fif-da-cic-rl-1"
+  },
+  "Carteira Itaú Asset de Investimento Multimercado": {
+    "cnpj": "35.650.636/0001-63",
+    "url": "https://maisretorno.com/fundo/carteira-itau-asset-investimento-fif-cic-multimercado-rl"
+  },
+  "Carteira Itaú Asset Internacional Multimercado": {
+    "cnpj": "36.346.391/0001-48",
+    "url": "https://maisretorno.com/fundo/carteira-itau-asset-internacional-investimento-fif-da-cic-multimercado-ie-rl"
+  },
+  "Itaú Global Dinâmico Plus": {
+    "cnpj": "26.269.983/0001-50",
+    "url": "https://maisretorno.com/fundo/itau-global-dinamico-plus-multimercado-fif-cic-rl"
+  },
+  "Itaú Index Blockchain Ações FX IE": {
+    "cnpj": "45.682.579/0001-58",
+    "url": "https://maisretorno.com/fundo/franklin-long-bias-prev-fi-financeiro-da-cic-mult-rl"
+  },
+  "Itaú Index Inflação Americana Renda Fixa USD": {
+    "cnpj": "01.129.004/0001-37",
+    "url": "https://maisretorno.com/fundo/itau-empresa-trust-rf-referenciado-di-fif-da-classe-fic-rl-1"
+  },
+  "Moat Capital Equity Hedge Multimercado Seleção": {
+    "cnpj": "41.682.289/0001-53",
+    "url": "https://maisretorno.com/fundo/moat-capital-equity-hedge-multimercado-selecao-fif-cic-rl"
+  },
+  "Itaú Kinea Oportunidade Renda Fixa Crédito Privado": {
+    "cnpj": "36.249.200/0001-20",
+    "url": "https://maisretorno.com/fundo/itau-kinea-oportunidade-rf-cp-fif-cic-rl"
+  },
+  "Legacy Renda Fixa Seleção Longo Prazo": {
+    "cnpj": "42.698.907/0001-16",
+    "url": "https://maisretorno.com/fundo/legacy-rf-selecao-fif-cic-lp-rl"
+  },
+  "SPX Seahawk Renda Fixa Crédito Privado LP Seleção": {
+    "cnpj": "42.431.531/0001-89",
+    "url": "https://maisretorno.com/fundo/spx-seahawk-rf-cp-lp-selecao-fif-cic-rl"
+  },
+  "IP Participações IPG Ações": {
+    "cnpj": "12.082.452/0001-49",
+    "url": "https://maisretorno.com/fundo/ip-participacoes-ipg-fic-fif-acoes-rl-1"
+  },
+  "Moat Capital Seleção Ações": {
+    "cnpj": "32.265.518/0001-43",
+    "url": "https://maisretorno.com/fundo/moat-capital-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "ASA Hedge FIC FIM": {
+    "cnpj": "20.458.815/0001-26",
+    "url": "https://maisretorno.com/fundo/asa-hedge-fic-fim"
+  },
+  "JGP Select Multimercado Crédito Privado IU": {
+    "cnpj": "32.892.615/0001-66",
+    "url": "https://maisretorno.com/fundo/jgp-select-fi-financeiro-da-cic-multimercado-cp-iu-rl"
+  },
+  "Giant Zarathustra Seleção Multimercado": {
+    "cnpj": "40.695.974/0001-51",
+    "url": "https://maisretorno.com/fundo/giant-zarathustra-selecao-multimercado-fif-cic-rl"
+  },
+  "Kapitalo Tarkus Seleção Ações": {
+    "cnpj": "32.905.802/0001-37",
+    "url": "https://maisretorno.com/fundo/kapitalo-tarkus-selecao-fif-cic-acoes-rl"
+  },
+  "Itaú Crédito Bancário Renda Fixa Crédito Privado": {
+    "cnpj": "51.998.694/0001-39",
+    "url": "https://maisretorno.com/fundo/itau-credito-bancario-rf-cp-fif-da-cic-rl-1"
+  },
+  "Itaú Index Simples Selic Renda Fixa": {
+    "cnpj": "04.699.653/0001-61",
+    "url": "https://maisretorno.com/fundo/itau-plus-rf-curto-prazo-fif-da-classe-fic-rl-1"
+  },
+  "Itaú Lumina Platinum Renda Fixa Longo Prazo": {
+    "cnpj": "53.304.657/0001-09",
+    "url": "https://maisretorno.com/fundo/itau-lumina-platinum-fif-cic-rf-lp-rl-1"
+  },
+  "Itaú Lumina Soberano Renda Fixa Longo Prazo": {
+    "cnpj": "52.151.906/0001-00",
+    "url": "https://maisretorno.com/fundo/itau-lumina-soberano-rf-lp-fi-financeiro-da-cic-rl-1"
+  },
+  "Mapfre Confianza Renda Fixa Referenciado DI": {
+    "cnpj": "51.253.495/0001-00",
+    "url": "https://maisretorno.com/fundo/mapfre-confianza-fif-rf-referenciado-di-cp-rl"
+  },
+  "Absolute Creta Seleção Renda Fixa Crédito Privado": {
+    "cnpj": "48.094.354/0001-79",
+    "url": "https://maisretorno.com/fundo/absolute-creta-selecao-fif-cic-rf-cp-rl"
+  },
+  "Ace Capital Vantage Seleção Renda Fixa Longo Prazo": {
+    "cnpj": "48.107.062/0001-23",
+    "url": "https://maisretorno.com/fundo/ace-capital-vantage-selecao-fif-da-cic-rf-lp-rl"
+  },
+  "Carteira Itaú Asset de Investimento Moderado MM": {
+    "cnpj": "46.467.345/0001-50",
+    "url": "https://maisretorno.com/fundo/carteira-itau-asset-investimento-moderado-fif-da-cic-multimercado-rl"
+  },
+  "Itaú Active Fix 5 Crédito Privado Renda Fixa": {
+    "cnpj": "20.335.176/0001-01",
+    "url": "https://maisretorno.com/fundo/itau-active-fix-5-rf-cp-fif-da-classe-fic-rl-1"
+  },
+  "Itaú Active Fix ALL Crédito Privado Renda Fixa": {
+    "cnpj": "38.000.771/0001-51",
+    "url": "https://maisretorno.com/fundo/itau-active-fix-all-rf-cp-lp-fif-da-cic-rl"
+  },
+  "Itaú Active Fix ESG Crédito Privado Multimercado": {
+    "cnpj": "41.734.846/0001-32",
+    "url": "https://maisretorno.com/fundo/itau-active-fix-esg-cp-multimercado-investimento-sustentavel-fif-da-cic-rl"
+  },
+  "Itaú Active Fix ESG Horizonte IS Multimercado": {
+    "cnpj": "57.566.553/0001-23",
+    "url": "https://maisretorno.com/fundo/itau-active-fix-esg-horizonte-is-fif-da-cic-multimercado-cp-rl-1"
+  },
+  "Itaú Artax Renda Fixa Longo Prazo": {
+    "cnpj": "46.422.205/0001-66",
+    "url": "https://maisretorno.com/fundo/itau-artax-rf-lp-fif-da-classe-fic-rl"
+  },
+  "Itaú Aurora Yield Plus Multimercado": {
+    "cnpj": "22.428.807/0001-62",
+    "url": "https://maisretorno.com/fundo/itau-aurora-yield-plus-fif-cic-mult-rl"
+  },
+  "Itaú Dual Advanced Multimercado Crédito Privado": {
+    "cnpj": "34.803.938/0001-61",
+    "url": "https://maisretorno.com/fundo/itau-dual-advanced-multimercado-cp-fif-rl"
+  },
+  "Itaú Fusion Eagle Multimercado": {
+    "cnpj": "57.644.743/0001-11",
+    "url": "https://maisretorno.com/fundo/itau-fusion-eagle-fi-financeiro-cic-multimercado-rl-1"
+  },
+  "Itaú Fusion Harpia Multimercado Crédito Privado": {
+    "cnpj": "57.301.287/0001-07",
+    "url": "https://maisretorno.com/fundo/itau-fusion-harpia-fif-cic-multimercado-rl-1"
+  },
+  "Itaú Global Dinâmico Baixa Vol Multimercado": {
+    "cnpj": "40.141.002/0001-15",
+    "url": "https://maisretorno.com/fundo/itau-flexprev-index-juros-reais-b5-fif-cic-rf-rl-2"
+  },
+  "Itaú Global Dinâmico Multimercado": {
+    "cnpj": "21.407.385/0001-86",
+    "url": "https://maisretorno.com/fundo/itau-global-dinamico-multimercado-fif-da-classe-fic-rl"
+  },
+  "Itaú High Yield All Multimercado Crédito Privado": {
+    "cnpj": "42.263.927/0001-64",
+    "url": "https://maisretorno.com/fundo/itau-high-yield-all-multimercado-cp-fif-cic-rl"
+  },
+  "Itaú Index Juros Reais B5+ Renda Fixa": {
+    "cnpj": "37.307.077/0001-19",
+    "url": "https://maisretorno.com/fundo/itau-index-juros-reais-b5-rf-fi-financeiro-da-cic-rl-1"
+  },
+  "Itaú Index Juros Reais de Renda Fixa": {
+    "cnpj": "37.307.475/0001-35",
+    "url": "https://maisretorno.com/fundo/itau-index-juros-reais-rf-fif-da-cic-rl-1"
+  },
+  "Itaú Index Pré IDKA 3A Alavancado MM FICFI": {
+    "cnpj": "51.973.414/0001-38",
+    "url": "https://maisretorno.com/fundo/itau-index-pre-idka-3a-alavancado-multimercado-fif-da-classe-fic-rl"
+  },
+  "Itaú Index Pré IRF-M 1+ Renda Fixa": {
+    "cnpj": "39.401.219/0001-38",
+    "url": "https://maisretorno.com/fundo/itau-index-pre-irfm-1-rf-fi-financeiro-da-cic-rl-1"
+  },
+  "Itaú Index Pré Longo Prazo Renda Fixa": {
+    "cnpj": "37.307.534/0001-75",
+    "url": "https://maisretorno.com/fundo/itau-index-pre-lp-rf-fi-financeiro-da-cic-rl-1"
+  },
+  "Itaú Inflação Multiestratégia Multimercado": {
+    "cnpj": "46.438.904/0001-02",
+    "url": "https://maisretorno.com/fundo/itau-inflacao-multiestrategia-multimercado-fif-da-cic-rl"
+  },
+  "Itaú Kinea Apolo Multimercado": {
+    "cnpj": "35.364.125/0001-85",
+    "url": "https://maisretorno.com/fundo/itau-kinea-apolo-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "Itaú Kinea Chronos Multimercado": {
+    "cnpj": "23.731.781/0001-90",
+    "url": "https://maisretorno.com/fundo/itau-personnalite-kinea-chronos-fif-da-classe-fic-multimercado-rl"
+  },
+  "Itaú Kinea Dakar Renda Fixa Longo Prazo": {
+    "cnpj": "47.611.958/0001-82",
+    "url": "https://maisretorno.com/fundo/itau-kinea-dakar-rf-fif-cic-lp-rl"
+  },
+  "Itaú Kinea IPCA Dinâmico II Renda Fixa": {
+    "cnpj": "39.303.195/0001-84",
+    "url": "https://maisretorno.com/fundo/itau-kinea-ipca-dinamico-ii-rf-fif-da-cic-rl"
+  },
+  "Itaú Long And Short 30 Multimercado": {
+    "cnpj": "17.420.064/0001-44",
+    "url": "https://maisretorno.com/fundo/itau-multimercado-long-and-short-30-fif-cic-rl"
+  },
+  "Itaú Multimercado High Yield Crédito Privado": {
+    "cnpj": "28.840.420/0001-03",
+    "url": "https://maisretorno.com/fundo/itau-multimercado-cp-high-yield-fif-cic-rl"
+  },
+  "Itaú Optimus Renda Fixa Longo Prazo": {
+    "cnpj": "40.498.539/0001-37",
+    "url": "https://maisretorno.com/fundo/itau-optimus-rf-lp-fif-da-classe-fic-rl"
+  },
+  "Itaú Seleção Multifundos Genesis Multimercado": {
+    "cnpj": "39.322.561/0001-42",
+    "url": "https://maisretorno.com/fundo/apex-acoes-selecao-fif-da-classe-fic-rl"
+  },
+  "Itaú Seleção Multifundos Multimercado": {
+    "cnpj": "05.523.348/0001-87",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multimultimercado-fif-cic-rl"
+  },
+  "Itaú Seleção Multifundos Plus Multimercado": {
+    "cnpj": "17.329.627/0001-93",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multiplus-multimercado-fif-cic-rl"
+  },
+  "Itaú Seleção Multifundos Renda Fixa": {
+    "cnpj": "32.245.930/0001-00",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multirf-lp-fif-da-classe-fic-rl-1"
+  },
+  "Itaú Sinfonia All Multimercado Crédito Privado": {
+    "cnpj": "54.278.393/0001-29",
+    "url": "https://maisretorno.com/fundo/itau-sinfonia-all-fif-cic-mult-cp-rl-1"
+  },
+  "Itaú Sinfonia Multimercado Crédito Privado": {
+    "cnpj": "42.717.960/0001-17",
+    "url": "https://maisretorno.com/fundo/itau-sinfonia-multimercado-cp-fi-financeiro-da-cic-rl"
+  },
+  "Kinea Atlas Multimercado": {
+    "cnpj": "42.431.509/0001-39",
+    "url": "https://maisretorno.com/fundo/itau-flexprev-diferenciado-fif-cic-rf-cp-rl-1"
+  },
+  "Kinea Renda Fixa Absoluto Longo Prazo": {
+    "cnpj": "28.851.710/0001-44",
+    "url": "https://maisretorno.com/fundo/itau-kinea-rf-absoluto-lp-fif-da-classe-fic-rl"
+  },
+  "Portfolio Itaú Brasil Multimercado": {
+    "cnpj": "41.907.811/0001-58",
+    "url": "https://maisretorno.com/fundo/portfolio-itau-brasil-fif-cic-fim-rl"
+  },
+  "Porto Seguro Ipê RF Seleção Crédito Privado": {
+    "cnpj": "49.972.274/0001-31",
+    "url": "https://maisretorno.com/fundo/porto-seguro-ipe-rf-selecao-fi-financeiro-da-cic-cp-lp-rl"
+  },
+  "V8 Cash Platinum Renda Fixa Crédito Privado": {
+    "cnpj": "42.774.627/0001-40",
+    "url": "https://maisretorno.com/fundo/v8-cash-platinum-cic-classe-investimento-rf-cp-rl"
+  },
+  "Absolute Hiker Renda Fixa Infra Seleção": {
+    "cnpj": "51.323.039/0001-80",
+    "url": "https://maisretorno.com/fundo/absolute-hiker-rf-infra-selecao-fif-incentivado-debentures-infra-da-cic-cp-lp"
+  },
+  "Ace Capital Drive Seleção": {
+    "cnpj": "51.252.839/0001-58",
+    "url": "https://maisretorno.com/fundo/ace-capital-drive-selecao-multimercado-fif-da-cic-rl"
+  },
+  "Ace Capital Multimercado Seleção": {
+    "cnpj": "42.379.878/0001-20",
+    "url": "https://maisretorno.com/fundo/ace-capital-multimercado-selecao-fif-da-classe-fic-rl"
+  },
+  "Apex Ações Seleção": {
+    "cnpj": "39.322.561/0001-42",
+    "url": "https://maisretorno.com/fundo/apex-acoes-selecao-fif-da-classe-fic-rl"
+  },
+  "AZ Quest Multi Max Seleção Multimercado": {
+    "cnpj": "38.025.711/0001-93",
+    "url": "https://maisretorno.com/fundo/az-quest-multi-max-selecao-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "B2V Crypto 20 Fundo de Investimentos Multimercado": {
+    "cnpj": "21.065.857/0001-60",
+    "url": "https://maisretorno.com/fundo/b2v-crypto-20-fi-financeiro-multimercado-rl"
+  },
+  "BB Ações Agro Seleção": {
+    "cnpj": "54.784.279/0001-70",
+    "url": "https://maisretorno.com/fundo/bb-agro-selecao-fif-da-classe-fic-acoes-rl-1"
+  },
+  "Carteira Itaú Asset Agressivo de Investimento MM": {
+    "cnpj": "38.163.681/0001-81",
+    "url": "https://maisretorno.com/fundo/carteira-itau-asset-investimento-agressivo-fif-da-cic-multimercado-rl"
+  },
+  "Founders Multifundos Global Alpha USD": {
+    "cnpj": "37.231.262/0001-77",
+    "url": "https://maisretorno.com/fundo/itau-founders-multiglobal-alpha-usd-multimercado-ie-fif-cic-rl"
+  },
+  "Itaú Ace Dividendos Ações": {
+    "cnpj": "06.258.544/0001-34",
+    "url": "https://maisretorno.com/fundo/itau-ace-dividendos-acoes-fif-da-classe-fic-rl"
+  },
+  "Itaú Ações Asgard": {
+    "cnpj": "35.492.361/0001-87",
+    "url": "https://maisretorno.com/fundo/itau-acoes-asgard-fi-financeiro-da-classe-fic-rl"
+  },
+  "Itaú Ações Momento 30": {
+    "cnpj": "16.718.302/0001-30",
+    "url": "https://maisretorno.com/fundo/itau-acoes-momento-30-fif-da-classe-fic-rl"
+  },
+  "ITAÚ ALVORADA MULTIMERCADO FIF CIC RESP LIMITADA": {
+    "cnpj": "55.036.882/0001-37",
+    "url": "https://maisretorno.com/fundo/itau-alvorada-fif-da-classe-fic-multimercado-rl-1"
+  },
+  "Itaú Artax Endurance Multimercado": {
+    "cnpj": "55.499.832/0001-96",
+    "url": "https://maisretorno.com/fundo/itau-artax-endurance-fif-cic-multimercado-rl-1"
+  },
+  "Itaú Artax Infra Incentivado RF LP - RL": {
+    "cnpj": "52.969.671/0001-69",
+    "url": "https://maisretorno.com/fundo/itau-artax-infra-fif-incentivado-infra-cic-rf-cp-lp-rl-1"
+  },
+  "Itaú Artax Multimercado": {
+    "cnpj": "42.698.615/0001-83",
+    "url": "https://maisretorno.com/fundo/itau-artax-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "Itaú Artax Ultra Multimercado": {
+    "cnpj": "42.698.666/0001-05",
+    "url": "https://maisretorno.com/fundo/itau-artax-ultra-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "Itaú BDR Nível 1 Ações": {
+    "cnpj": "37.306.507/0001-88",
+    "url": "https://maisretorno.com/fundo/itau-bdr-nivel-1-acoes-fif-da-classe-fic-rl"
+  },
+  "Itaú Eletrobras Ações FICFI": {
+    "cnpj": "42.519.896/0001-60",
+    "url": "https://maisretorno.com/fundo/itau-eletrobras-acoes-fif-da-classe-fic-rl"
+  },
+  "Itaú Financial Bonds Crédito Privado Multimercado": {
+    "cnpj": "23.731.351/0001-78",
+    "url": "https://maisretorno.com/fundo/itau-financial-bonds-cp-multimercado-ie-fif-da-cic-rl"
+  },
+  "Itaú Global Dinâmico Infra Renda Fixa Longo Prazo": {
+    "cnpj": "58.639.093/0001-89",
+    "url": "https://maisretorno.com/fundo/itau-global-dinamico-infra-fif-incentivado-cic-infraestrutura-rf-lp-cp-rl"
+  },
+  "Itaú Global Dinâmico Ultra Multimercado": {
+    "cnpj": "42.299.229/0001-19",
+    "url": "https://maisretorno.com/fundo/itau-global-dinamico-ultra-multimercado-fif-cic-rl"
+  },
+  "Itaú Global Equity Solution Hedged Ações": {
+    "cnpj": "56.093.011/0001-18",
+    "url": "https://maisretorno.com/fundo/itau-global-equity-solution-hedged-fif-cic-acoes-ie-rl-1"
+  },
+  "Itaú Hunter Long Only Ações": {
+    "cnpj": "52.798.293/0001-06",
+    "url": "https://maisretorno.com/fundo/itau-hunter-long-only-fif-cic-acoes-rl-1"
+  },
+  "Itaú Hunter Total Return Multimercado": {
+    "cnpj": "37.347.946/0001-39",
+    "url": "https://maisretorno.com/fundo/itau-hunter-total-return-multimercado-fif-cic-rl-1"
+  },
+  "Itaú Index Ações Emergentes FX": {
+    "cnpj": "36.249.375/0001-37",
+    "url": "https://maisretorno.com/fundo/itau-index-acoes-emergentes-fx-ie-fif-da-cic-rl-1"
+  },
+  "Itaú Index Ações Estratégia S&P 500": {
+    "cnpj": "37.306.536/0001-40",
+    "url": "https://maisretorno.com/fundo/itau-index-acoes-estrategia-sp500-fif-da-classe-fic-rl"
+  },
+  "Itaú Index Ações Europa EUR": {
+    "cnpj": "36.249.300/0001-56",
+    "url": "https://maisretorno.com/fundo/itau-index-acoes-europa-eur-ie-fif-cic-rl"
+  },
+  "Itaú Index Ações Ibovespa": {
+    "cnpj": "36.348.176/0001-86",
+    "url": "https://maisretorno.com/fundo/itau-index-acoes-ibovespa-fif-da-classe-fic-rl"
+  },
+  "Itaú Index Ações Japão JPY": {
+    "cnpj": "36.249.291/0001-01",
+    "url": "https://maisretorno.com/fundo/itau-index-acoes-japao-jpy-ie-fif-da-classe-fic-rl"
+  },
+  "Itaú Index Ações Small Cap": {
+    "cnpj": "36.348.109/0001-61",
+    "url": "https://maisretorno.com/fundo/itau-acoes-small-cap-index-fif-cic-rl"
+  },
+  "Itaú Index Bitcoin USD Multimercado": {
+    "cnpj": "49.920.157/0001-24",
+    "url": "https://maisretorno.com/fundo/itau-index-bitcoin-usd-fif-da-classe-fic-multimercado-rl"
+  },
+  "Itaú Index Cambial Dólar": {
+    "cnpj": "37.306.612/0001-17",
+    "url": "https://maisretorno.com/fundo/itau-index-cambial-dolar-fif-da-classe-fic-rl"
+  },
+  "Itaú Index China Tech Ações CNY HKD IE": {
+    "cnpj": "40.526.664/0001-03",
+    "url": "https://maisretorno.com/fundo/itau-index-china-tech-acoes-cny-hkd-ie-fif-da-cic-rl"
+  },
+  "Itaú Index Commodities FX Multimercado IE": {
+    "cnpj": "41.235.137/0001-02",
+    "url": "https://maisretorno.com/fundo/itau-index-commodities-fx-multimercado-ie-fif-classe-fic-rl"
+  },
+  "Itaú Index Crédito High Yield Americano RF USD": {
+    "cnpj": "35.412.094/0001-90",
+    "url": "https://maisretorno.com/fundo/itau-index-credito-high-yield-americano-rf-usd-ie-fif-da-cic-rl"
+  },
+  "Itaú Index ESG Água Ações FX Sustentável": {
+    "cnpj": "39.490.897/0001-14",
+    "url": "https://maisretorno.com/fundo/itau-index-esg-agua-acoes-fx-ie-fif-da-cic-sustentavel-rl-1"
+  },
+  "Itaú Index ESG Energia Limpa Ações FX Sustentável": {
+    "cnpj": "39.518.356/0001-57",
+    "url": "https://maisretorno.com/fundo/itau-index-esg-energia-limpa-acoes-fx-ie-fif-cic-sustentavel-rl-1"
+  },
+  "Itaú Index Gold Multimercado": {
+    "cnpj": "35.492.154/0001-22",
+    "url": "https://maisretorno.com/fundo/itau-index-gold-multimercado-fif-da-classe-fic-rl"
+  },
+  "Itaú Index Gold USD Multimercado": {
+    "cnpj": "37.555.088/0001-18",
+    "url": "https://maisretorno.com/fundo/itau-index-gold-usd-multimercado-ie-fif-da-cic-rl"
+  },
+  "Itaú Index Itaú Unibanco Ações": {
+    "cnpj": "36.347.678/0001-92",
+    "url": "https://maisretorno.com/fundo/itau-index-itau-unibanco-acoes-fif-da-classe-fic-rl"
+  },
+  "Itaú Index Multimercado S&P500 USD": {
+    "cnpj": "36.249.379/0001-15",
+    "url": "https://maisretorno.com/fundo/itau-index-multimercado-estrategia-sp-500-usd-fif-da-classe-fic-rl"
+  },
+  "Itaú Index Petrobrás Ações": {
+    "cnpj": "38.267.929/0001-54",
+    "url": "https://maisretorno.com/fundo/itau-index-petrobras-acoes-fif-cic-rl"
+  },
+  "Itaú Index Vale Ações": {
+    "cnpj": "36.350.655/0001-37",
+    "url": "https://maisretorno.com/fundo/itau-index-vale-acoes-fif-da-classe-fic-rl"
+  },
+  "Itaú Inflation Equity Opportunities Multimercado": {
+    "cnpj": "53.935.306/0001-04",
+    "url": "https://maisretorno.com/fundo/itau-inflation-equity-opportunities-fif-da-classe-fic-mult-rl-1"
+  },
+  "Itaú Kinea Ártemis Multimercado IE": {
+    "cnpj": "42.860.588/0001-01",
+    "url": "https://maisretorno.com/fundo/itau-kinea-artemis-fif-cic-mult-ie-rl"
+  },
+  "Itaú Kinea Debêntures Incentivadas Renda Fixa": {
+    "cnpj": "54.383.407/0001-74",
+    "url": "https://maisretorno.com/fundo/itau-kinea-debentures-incentivadas-fif-incentivado-infra-cic-rf-cp-lp-rl-1"
+  },
+  "Itaú Kinea Gama Ações": {
+    "cnpj": "35.495.418/0001-00",
+    "url": "https://maisretorno.com/fundo/kinea-gama-fif-da-classe-fic-acoes-rl-2"
+  },
+  "Itaú Legend Infra Renda Fixa Crédito Privado": {
+    "cnpj": "57.038.991/0001-19",
+    "url": "https://maisretorno.com/fundo/itau-legend-infra-fif-incentivado-infra-da-cic-rf-cp-lp-rl-1"
+  },
+  "Itaú Olimpo Fundo de Ações": {
+    "cnpj": "32.246.546/0001-13",
+    "url": "https://maisretorno.com/fundo/itau-olimpo-fif-da-classe-fic-acoes-rl"
+  },
+  "Itau Omni Multimercado": {
+    "cnpj": "57.335.243/0001-06",
+    "url": "https://maisretorno.com/fundo/itau-omni-fi-financeiro-da-classe-fic-mult-rl-1"
+  },
+  "Itaú Optimus Long Bias Multimercado": {
+    "cnpj": "46.479.577/0001-29",
+    "url": "https://maisretorno.com/fundo/itau-optimus-long-bias-multimercado-fif-da-classe-fic-rl"
+  },
+  "Itaú Optimus Titan Multimercado": {
+    "cnpj": "28.046.819/0001-09",
+    "url": "https://maisretorno.com/fundo/itau-flexprev-private-juro-real-target-2030-ii-fif-cic-rf-rl-1"
+  },
+  "Itaú Precision Advanced Multimercado CP": {
+    "cnpj": "32.292.528/0001-78",
+    "url": "https://maisretorno.com/fundo/itau-precision-advanced-multimercado-cp-fif-cic-rl"
+  },
+  "Itaú Sabesp Ações FIF RL": {
+    "cnpj": "55.390.412/0001-77",
+    "url": "https://maisretorno.com/fundo/itau-sabesp-fi-financeiro-acoes-rl-1"
+  },
+  "Itaú Seleção Multifundos Aquila Ações": {
+    "cnpj": "36.348.392/0001-21",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multaquila-acoes-fif-da-classe-fic-rl"
+  },
+  "Itaú Seleção Multifundos Discovery Multimercado": {
+    "cnpj": "27.591.107/0001-08",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multidiscovery-multimercado-fif-da-cic-rl"
+  },
+  "Itaú Seleção Multifundos Fundo de Ações": {
+    "cnpj": "04.348.384/0001-99",
+    "url": "https://maisretorno.com/fundo/itau-acoes-selecao-multifi-financeiro-da-cic-rl"
+  },
+  "Itaú Seleção Multifundos Genesis Fundo de Ações": {
+    "cnpj": "31.391.191/0001-93",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multigenesis-fif-cic-acoes-rl"
+  },
+  "Itaú Seleção Multifundos Global Alpha": {
+    "cnpj": "28.280.864/0001-23",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multiglobal-alpha-multimercado-ie-fif-cic-rl"
+  },
+  "Itaú Seleção Multifundos Long Bias Ações": {
+    "cnpj": "27.580.503/0001-30",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multilong-bias-acoes-fif-da-classe-fic-rl"
+  },
+  "Itaú Seleção Multifundos MM Crédito Privado": {
+    "cnpj": "42.337.008/0001-98",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multimultimercado-cp-fif-cic-rl"
+  },
+  "Itaú Seleção Multifundos Plus Ações": {
+    "cnpj": "35.488.313/0001-15",
+    "url": "https://maisretorno.com/fundo/itau-selecao-multiplus-acoes-fif-da-cic-rl"
+  },
+  "Itaú Small Cap Valuation Fundo de Ações": {
+    "cnpj": "01.063.897/0001-65",
+    "url": "https://maisretorno.com/fundo/itau-small-cap-valuation-fif-cic-acoes-rl"
+  },
+  "Itaú Smart Ações Brasil 50": {
+    "cnpj": "35.110.510/0001-04",
+    "url": "https://maisretorno.com/fundo/itau-smart-acoes-brasil-50-fi-financeiro-da-cic-acoes-rl"
+  },
+  "Itaú Smart Ações Low Vol": {
+    "cnpj": "06.170.687/0001-90",
+    "url": "https://maisretorno.com/fundo/itau-personnalite-multiimercado-multiestrategia-fif-da-cic-rl"
+  },
+  "Itaú Tesouro Americano USD 10 Anos Multimercado": {
+    "cnpj": "36.348.138/0001-23",
+    "url": "https://maisretorno.com/fundo/itau-tesouro-americano-usd-10-anos-fif-da-classe-fic-mult-rl"
+  },
+  "Moat Capital Long Bias Multimercado Seleção": {
+    "cnpj": "41.326.338/0001-15",
+    "url": "https://maisretorno.com/fundo/moat-capital-long-bias-mult-selecao-fif-da-cic-rl"
+  },
+  "Portfolio Itaú Multimercado": {
+    "cnpj": "41.884.595/0001-72",
+    "url": "https://maisretorno.com/fundo/portfolio-itau-fif-da-classe-fic-multimercado-rl"
+  },
+  "Tenax Renda Fixa Infra Seleção": {
+    "cnpj": "54.090.484/0001-36",
+    "url": "https://maisretorno.com/fundo/tenax-infra-selecao-inc-investimento-finan-deb-infra-cic-rf-cp-lp-rl-1"
+  },
+  "Vinland Debêntures de Infra IPCA": {
+    "cnpj": "57.075.698/0001-21",
+    "url": "https://maisretorno.com/fundo/vinland-fif-incentivado-investimento-deb-infra-ipca-rf-cp-lp-rl-1"
+  },
+  "Plural ESG IS Crédito Privado 45 Renda Fixa LP": {
+    "cnpj": "38.281.169/0001-30",
+    "url": "https://maisretorno.com/fundo/plural-esg-is-cp-45-fic-fif-rf-lp-rl"
+  },
+  "Atena Yield D30 Renda Fixa Crédito Privado": {
+    "cnpj": "31.340.838/0001-58",
+    "url": "https://maisretorno.com/fundo/atena-yield-d30-fic-fi-financeiro-rf"
+  },
+  "Kad IMAB FIC Renda Fixa": {
+    "cnpj": "43.778.868/0001-20",
+    "url": "https://maisretorno.com/fundo/kad-imab-fic-fi-financeiro-rf-lp-rl"
+  },
+  "BTG Pactual Credito Corporativo Dinâmico Seleção": {
+    "cnpj": "56.070.131/0001-08",
+    "url": "https://maisretorno.com/fundo/btg-pactual-credito-corporativo-dinamico-selecao-fif-cic-rf-cp-rl-1"
+  },
+  "Galapagos Albatroz Renda Fixa Longo Prazo": {
+    "cnpj": "47.610.970/0001-72",
+    "url": "https://maisretorno.com/fundo/galapagos-albatroz-fi-financeiro-rf"
+  },
+  "Iridium Apollo FIC Renda Fixa Crédito Privado LP": {
+    "cnpj": "26.978.438/0001-32",
+    "url": "https://maisretorno.com/fundo/iridium-apollo-fif-rf-cp-lp-rl"
+  },
+  "Iridium Titan Renda Fixa Crédito Privado": {
+    "cnpj": "28.259.415/0001-01",
+    "url": "https://maisretorno.com/fundo/iridium-pioneer-deb-incentivadas-incent-investimento-financeiro-infra-rf-rl"
+  },
+  "Mag Cash Renda Fixa Longo Prazo": {
+    "cnpj": "17.899.612/0001-60",
+    "url": "https://maisretorno.com/fundo/mag-cash-fi-financeiro-rf"
+  },
+  "Mapfre Renda Fixa Fundo de Investimento": {
+    "cnpj": "22.022.527/0001-50",
+    "url": "https://maisretorno.com/fundo/mapfre-selecao-fi-rf"
+  },
+  "Novus Institucional Seleção Multimercado": {
+    "cnpj": "51.410.309/0001-90",
+    "url": "https://maisretorno.com/fundo/novus-institucional-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Ace Capital Absoluto Seleção Ações": {
+    "cnpj": "48.107.032/0001-17",
+    "url": "https://maisretorno.com/fundo/ace-capital-absoluto-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "B2V Crypto 40 Fundo de Investimento Multimercado": {
+    "cnpj": "42.870.532/0001-20",
+    "url": "https://maisretorno.com/fundo/b2v-crypto-40-fi-financeiro-multimercado-rl"
+  },
+  "Dahlia Global Allocation Multimercado Seleção": {
+    "cnpj": "41.287.719/0001-32",
+    "url": "https://maisretorno.com/fundo/dahlia-global-allocation-multimercado-selecao-fif-da-classe-fic-rl"
+  },
+  "Iridium Pioneer FI Infra Renda Fixa": {
+    "cnpj": "48.359.891/0001-01",
+    "url": "https://maisretorno.com/fundo/iridium-titan-fic-fi-financeiro-rf-cp-rl"
+  },
+  "LIS VALUE FUNDO DE INVESTIMENTO EM AÇÕES": {
+    "cnpj": "24.325.422/0001-03",
+    "url": "https://maisretorno.com/fundo/lis-value-fi-financeiro-acoes-rl"
+  },
+  "Plural Debêntures Incentivadas 30 Multimercado CP": {
+    "cnpj": "24.623.412/0001-46",
+    "url": "https://maisretorno.com/fundo/plural-debentures-incentivadas-30-cp-fif-cotas-fif-rf-rl"
+  },
+  "Plural Debêntures Incentivadas Hedge 30 Renda Fixa": {
+    "cnpj": "30.178.843/0001-43",
+    "url": "https://maisretorno.com/fundo/plural-debentures-incentivadas-hedge-30-fic-fif-rf-cp-rl"
+  },
+  "Reach Ações": {
+    "cnpj": "20.468.028/0001-65",
+    "url": "https://maisretorno.com/fundo/reach-fia"
+  },
+  "V8 Speedway Long Short Multimercado": {
+    "cnpj": "39.354.762/0001-21",
+    "url": "https://maisretorno.com/fundo/v8-speedway-long-short-fic-fif-multimercado"
+  },
+  "AZ Quest Termo Renda Fixa LP": {
+    "cnpj": "22.681.798/0001-17",
+    "url": "https://maisretorno.com/fundo/az-quest-termo-fi-financeiro-rf"
+  },
+  "Arx Denali Renda Fixa Crédito Privado IU": {
+    "cnpj": "42.860.699/0001-00",
+    "url": "https://maisretorno.com/fundo/arx-denali-rf-cp-iu-fif-da-cic-rl"
+  },
+  "Arx Vinson Renda Fixa Crédito Privado IU": {
+    "cnpj": "42.698.327/0001-29",
+    "url": "https://maisretorno.com/fundo/arx-vinson-rf-cp-iu-fif-da-classe-fic-rl"
+  },
+  "AZ Quest Low Vol Multimercado": {
+    "cnpj": "10.320.188/0001-09",
+    "url": "https://maisretorno.com/fundo/az-quest-low-vol-fi-financeiro-multimercado"
+  },
+  "AZ Quest Valore FI RF CP": {
+    "cnpj": "19.782.311/0001-88",
+    "url": "https://maisretorno.com/fundo/az-quest-valore-fi-financeiro-rf-cp"
+  },
+  "Bahia AM Maraú Seleção Multimercado": {
+    "cnpj": "27.580.533/0001-46",
+    "url": "https://maisretorno.com/fundo/bahia-am-marau-selecao-fif-da-cic-multimercado-rl"
+  },
+  "Bahia AM Seleção Multimercado": {
+    "cnpj": "32.921.848/0001-40",
+    "url": "https://maisretorno.com/fundo/bahia-am-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Compass Yield 30 Renda Fixa CP LP": {
+    "cnpj": "36.318.479/0001-56",
+    "url": "https://maisretorno.com/fundo/compass-yield-30-fif-rf-cp-lp-rl"
+  },
+  "Icatu Vanguarda Crédito Privado Liquidez Seleção": {
+    "cnpj": "48.069.005/0001-05",
+    "url": "https://maisretorno.com/fundo/icatu-vanguarda-cp-liquidez-selecao-fif-cic-rf-lp-rl"
+  },
+  "Icatu Vanguarda Crédito Privado PG Multimercado": {
+    "cnpj": "42.501.967/0001-05",
+    "url": "https://maisretorno.com/fundo/icatu-vanguarda-cp-pg-multimercado-selecao-fif-cic-rl"
+  },
+  "Kadima Seleção Multimercado": {
+    "cnpj": "37.555.151/0001-16",
+    "url": "https://maisretorno.com/fundo/kadima-selecao-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "Mapfre Inversion Fundo de Invest Multimercado": {
+    "cnpj": "07.187.591/0001-05",
+    "url": "https://maisretorno.com/fundo/mapfre-inversion-fi-financeiro-multimercado-rl"
+  },
+  "Occam Crédito Corporativo 30 Renda Fixa": {
+    "cnpj": "47.586.648/0001-55",
+    "url": "https://maisretorno.com/fundo/occam-credito-corporativo-30-fic-fi-financeiro-rf-rl"
+  },
+  "Occam Liquidez Renda Fixa Crédito Privado": {
+    "cnpj": "46.098.897/0001-39",
+    "url": "https://maisretorno.com/fundo/occam-liquidez-fic-fi-financeiro-rf-credito-priv-rl-1"
+  },
+  "Riza Daikon Multimercado Crédito Privado": {
+    "cnpj": "36.015.100/0001-39",
+    "url": "https://maisretorno.com/fundo/riza-daikon-fi-financeiro-cotas-fim"
+  },
+  "Absolute Hidra IPCA Seleção Infra Renda Fixa": {
+    "cnpj": "57.065.462/0001-04",
+    "url": "https://maisretorno.com/fundo/absolute-hidra-ipca-selecao-fif-incentivado-infraestrutura-da-cic-rf-cp"
+  },
+  "Arx Elbrus Infra Renda Fixa": {
+    "cnpj": "30.910.199/0001-56",
+    "url": "https://maisretorno.com/fundo/arx-elbrus-fic-incentivado-investimento-financeiro-infra-rf-rl"
+  },
+  "Arx Elbrus Pro Infra Renda Fixa": {
+    "cnpj": "37.368.116/0001-98",
+    "url": "https://maisretorno.com/fundo/arx-elbrus-pro-fic-incentivados-investimento-financeiro-infra-rf-rl"
+  },
+  "Arx Income Ações": {
+    "cnpj": "03.168.062/0001-03",
+    "url": "https://maisretorno.com/fundo/arx-income-fic-fi-financeiro-acoes-rl"
+  },
+  "Aster Seleção Ações BDR Nível I": {
+    "cnpj": "51.820.051/0001-09",
+    "url": "https://maisretorno.com/fundo/aster-selecao-fif-da-classe-fic-acoes-bdr-nivel-i-rl"
+  },
+  "AZ Quest Bayes Long Biased Multimercado": {
+    "cnpj": "36.499.625/0001-97",
+    "url": "https://maisretorno.com/fundo/az-quest-bayes-long-biased-sistematico-fim"
+  },
+  "AZ Quest Bayes Long Short Multimercado": {
+    "cnpj": "46.929.688/0001-90",
+    "url": "https://maisretorno.com/fundo/az-quest-bayes-long-short-sistematico-fic-fim"
+  },
+  "Bahia AM Valuation Seleção Ações": {
+    "cnpj": "32.139.841/0001-70",
+    "url": "https://maisretorno.com/fundo/bahia-am-valuation-selecao-acoes-fif-cic-rl"
+  },
+  "Drys Debêntures de Infraestrutura Seleção": {
+    "cnpj": "55.227.365/0001-45",
+    "url": "https://maisretorno.com/fundo/drys-debentures-inf-selecao-fi-fin-da-classe-fic-rf-cp-rl-1"
+  },
+  "Gauss FICFIM": {
+    "cnpj": "24.592.505/0001-50",
+    "url": "https://maisretorno.com/fundo/gauss-fic-fi-financeiro-multimercado-rl"
+  },
+  "Genoa Capital Arpa Seleção Multimercado": {
+    "cnpj": "52.237.908/0001-17",
+    "url": "https://maisretorno.com/fundo/genoa-capital-arpa-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "GTI Dimona Brasil Fundo de Investimento em Ações": {
+    "cnpj": "09.143.435/0001-60",
+    "url": "https://maisretorno.com/fundo/gti-dimona-brasil-fi-financeiro-acoes-rl"
+  },
+  "GTI Nimrod Fundo de Investimentos em Ações": {
+    "cnpj": "35.717.650/0001-37",
+    "url": "https://maisretorno.com/fundo/gti-nimrod-fi-financeiro-acoes-rl"
+  },
+  "Hashdex 100 Nasdaq Crypto Index Multimercado": {
+    "cnpj": "33.736.845/0001-07",
+    "url": "https://maisretorno.com/fundo/hashdex-100-nasdaq-crypto-index-fim"
+  },
+  "Hashdex 20 Nasdaq Crypto Index Multimercado": {
+    "cnpj": "33.736.873/0001-16",
+    "url": "https://maisretorno.com/fundo/hashdex-20-nasdaq-crypto-index-fi-financeiro-cotas-fim"
+  },
+  "Hashdex 40 Nasdaq Crypto Index Multimercado": {
+    "cnpj": "35.088.108/0001-62",
+    "url": "https://maisretorno.com/fundo/hashdex-40-nasdaq-crypto-index-fi-financeiro-cotas-fim"
+  },
+  "Hashdex Crypto Dinämico Long Biased": {
+    "cnpj": "47.612.274/0001-03",
+    "url": "https://maisretorno.com/fundo/hashdex-crypto-dinamico-long-biased-fic-fif-multimercado-lp-rl"
+  },
+  "Hashdex Crypto Top Performers Multimercado": {
+    "cnpj": "40.212.940/0001-69",
+    "url": "https://maisretorno.com/fundo/hashdex-crypto-top-performers-fif-multimercado-rl"
+  },
+  "Icatu Vanguarda Seleção Infraestrutura Renda Fixa": {
+    "cnpj": "46.467.208/0001-16",
+    "url": "https://maisretorno.com/fundo/icatu-vanguarda-selecao-fic-incentivados-investimento-infra-rf-lp-rl"
+  },
+  "Kadima Equities Ações": {
+    "cnpj": "12.845.796/0001-62",
+    "url": "https://maisretorno.com/fundo/kadima-equities-fi-financeiro-acoes"
+  },
+  "Kadima Internacional Alpha FIF Multi": {
+    "cnpj": "54.048.344/0001-08",
+    "url": "https://maisretorno.com/fundo/kadima-international-alpha-fi-financeiro-multimercado-rl-1"
+  },
+  "Kadima Long Bias FI Multimercado": {
+    "cnpj": "33.378.392/0001-86",
+    "url": "https://maisretorno.com/fundo/kadima-long-bias-fi-financeiro-multimercado-rl"
+  },
+  "Kadima Long Short Plus Fundo de Invest em Ações": {
+    "cnpj": "31.455.960/0001-70",
+    "url": "https://maisretorno.com/fundo/kadima-long-short-plus-fic-fi-financeiro-acoes-rl"
+  },
+  "Kadima LT Fundo de Investimento Multimercado": {
+    "cnpj": "31.923.761/0001-49",
+    "url": "https://maisretorno.com/fundo/kadima-lt-fi-financeiro-multimercado-responsablidade-limitada"
+  },
+  "Legacy Capital IPCA Debêntures de Infra Seleção": {
+    "cnpj": "55.228.297/0001-39",
+    "url": "https://maisretorno.com/fundo/legacy-capital-selecao-fif-incentivado-deb-infra-cic-rf-cp-rl-1"
+  },
+  "Mantaro Equity Hedge FI Multimercado": {
+    "cnpj": "45.653.398/0001-01",
+    "url": "https://maisretorno.com/fundo/mantaro-equity-hedge-fi-financeiro-multimercado"
+  },
+  "Mantaro LB Multimercado": {
+    "cnpj": "17.002.861/0001-01",
+    "url": "https://maisretorno.com/fundo/mantaro-lb-fi-financeiro-cotas-fim"
+  },
+  "Mapfre Fundo de Investimento em Ações": {
+    "cnpj": "09.296.009/0001-66",
+    "url": "https://maisretorno.com/fundo/mapfre-fi-financeiro-acoes-rl"
+  },
+  "Mapfre Fundo de Investimento em Ações Small": {
+    "cnpj": "09.296.022/0001-15",
+    "url": "https://maisretorno.com/fundo/mapfre-fi-financeiro-acoes-small-rl"
+  },
+  "Nextep Global Equities Long Only Ações": {
+    "cnpj": "17.703.320/0001-00",
+    "url": "https://maisretorno.com/fundo/nextep-global-equities-long-only-fif-acoes-ie-rl"
+  },
+  "Occam Ativo 30 Infraestrutura Renda Fixa": {
+    "cnpj": "54.344.616/0001-09",
+    "url": "https://maisretorno.com/fundo/occam-ativo-30-fic-fif-rfi-infra-cp-rl-1"
+  },
+  "Occam Long Biased Multimercado": {
+    "cnpj": "18.525.868/0001-70",
+    "url": "https://maisretorno.com/fundo/occam-long-biased-fic-fim-rl-1"
+  },
+  "Riza Évora Debêntures Incentivadas Juros Ativos": {
+    "cnpj": "48.969.198/0001-42",
+    "url": "https://maisretorno.com/fundo/riza-evora-deb-incentivadas-juros-ativos-fif-cotas-fi-investimento-infra-rf"
+  },
+  "Riza Travos Long Bias Multimercado": {
+    "cnpj": "46.962.243/0001-01",
+    "url": "https://maisretorno.com/fundo/riza-tavros-long-bias-fi-financeiro-cotas-fim"
+  },
+  "RPS Long Bias Selection D30 Ações": {
+    "cnpj": "32.041.623/0001-07",
+    "url": "https://maisretorno.com/fundo/rps-long-bias-selection-d30-fi-financeiro-cotas-fia"
+  },
+  "Vinci Mosaico Seleção Ações": {
+    "cnpj": "39.303.192/0001-40",
+    "url": "https://maisretorno.com/fundo/vinci-mosaico-selecao-fif-cic-acoes-rl"
+  },
+  "XP Macro FIM": {
+    "cnpj": "23.922.063/0001-09",
+    "url": "https://maisretorno.com/fundo/xp-macro-fi-financeiro-multimercado-rl"
+  },
+  "XP Macro Plus FIC FIM": {
+    "cnpj": "30.068.713/0001-58",
+    "url": "https://maisretorno.com/fundo/xp-macro-plus-fic-fi-financeiro-multimercado-rl"
+  },
+  "Porto Seguro Referenciado DI Crédito Privado": {
+    "cnpj": "18.719.154/0001-01",
+    "url": "https://maisretorno.com/fundo/porto-seguro-fi-financeiro-rf-referenciado-di-cp-rl"
+  },
+  "A1 High Grade Pós Fixado Feeder 2 Renda Fixa": {
+    "cnpj": "57.832.914/0001-36",
+    "url": "https://maisretorno.com/fundo/a1-high-grade-pos-fixado-feeder-2-fif-da-cic-rf-cp-rl"
+  },
+  "A1 Renda Fixa Longo Prazo": {
+    "cnpj": "53.847.813/0001-88",
+    "url": "https://maisretorno.com/fundo/a1-fi-financeiro-da-classe-fic-rf-lp-rl-1"
+  },
+  "Absolute Hiker Renda Fixa Seleção Longo Prazo": {
+    "cnpj": "42.814.885/0001-02",
+    "url": "https://maisretorno.com/fundo/absolute-hiker-rf-selecao-fif-da-classe-fic-lp-rl"
+  },
+  "AF Horizonte Multimercado": {
+    "cnpj": "44.025.131/0001-07",
+    "url": "https://maisretorno.com/fundo/af-horizonte-fi-financeiro-multimercado"
+  },
+  "AF Invest Geraes 30 Renda Fixa Crédito Privado": {
+    "cnpj": "29.044.189/0001-04",
+    "url": "https://maisretorno.com/fundo/afi-geraes-30-fi-financeiro-rf"
+  },
+  "AF Invest Renda Fixa Crédito Privado Geraes": {
+    "cnpj": "09.720.734/0001-10",
+    "url": "https://maisretorno.com/fundo/afi-geraes-fi-financeiro-rf"
+  },
+  "Angá Portfólio Fundo de Investimento Multimercado": {
+    "cnpj": "09.620.860/0001-00",
+    "url": "https://maisretorno.com/fundo/anga-portfolio-fi-financeiro-multimercado-cp-rl"
+  },
+  "Armor Sword Multimercado": {
+    "cnpj": "44.613.740/0001-79",
+    "url": "https://maisretorno.com/fundo/armor-sword-fi-financeiro-cotas-fim"
+  },
+  "Arx Everest Renda Fixa Crédito Privado": {
+    "cnpj": "32.102.131/0001-76",
+    "url": "https://maisretorno.com/fundo/arx-everest-fic-fif-rf-cp-rl"
+  },
+  "Atena Tapyr Renda Fixa Longo Prazo Crédito Privado": {
+    "cnpj": "17.627.210/0001-07",
+    "url": "https://maisretorno.com/fundo/atena-tapyr-fi-financeiro-cotas-fi-rf"
+  },
+  "AZ Quest Altro Multimercado Crédito Privado": {
+    "cnpj": "22.100.009/0001-07",
+    "url": "https://maisretorno.com/fundo/az-quest-altro-fic-fi-financeiro-multimercado-cp"
+  },
+  "AZ Quest Multi FIC Multimercado": {
+    "cnpj": "04.455.632/0001-09",
+    "url": "https://maisretorno.com/fundo/az-quest-multi-fic-fi-financeiro-multimercado"
+  },
+  "AZ Quest Supra Multimercado Crédito Privado": {
+    "cnpj": "36.352.498/0001-07",
+    "url": "https://maisretorno.com/fundo/az-quest-supra-fic-fi-financeiro-multimercado-cp"
+  },
+  "Capitânia Premium 45 FIC FI RF CP LP": {
+    "cnpj": "20.146.294/0001-71",
+    "url": "https://maisretorno.com/fundo/capitania-premium-45-fic-fif-rf-cp-lp-rl"
+  },
+  "Capitânia Radar 90 Multimercado": {
+    "cnpj": "23.272.391/0001-07",
+    "url": "https://maisretorno.com/fundo/capitania-radar-90-fic-fif-multimercado-cp-lp-rl"
+  },
+  "Capitânia Top Crédito Privado Renda Fixa": {
+    "cnpj": "13.615.411/0001-33",
+    "url": "https://maisretorno.com/fundo/capitania-top-cp-fic-fi-financeiro-rf-rl"
+  },
+  "Equitas Shelter Seleção Renda Fixa": {
+    "cnpj": "53.390.661/0001-37",
+    "url": "https://maisretorno.com/fundo/equitas-shelter-selecao-fif-cic-rf-cp-lp-rl-1"
+  },
+  "Itaú BTG Pactual Hedge Renda Fixa Crédito Privado": {
+    "cnpj": "08.927.574/0001-11",
+    "url": "https://maisretorno.com/fundo/itau-btg-pactual-hedge-fif-cic-rf-cp-rl"
+  },
+  "JGP Hedge FIC FIM": {
+    "cnpj": "03.119.883/0001-41",
+    "url": "https://maisretorno.com/fundo/jgp-hedge-fic-fi-financeiro-multimercado-rl"
+  },
+  "JGP Strategy Seleção Multimercado": {
+    "cnpj": "31.820.924/0001-68",
+    "url": "https://maisretorno.com/fundo/jgp-strategy-selecao-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "Mag High Grade Plus 30 Renda Fixa Crédito Privado": {
+    "cnpj": "50.697.486/0001-37",
+    "url": "https://maisretorno.com/fundo/mag-high-grade-plus-30-fif-rf-cp-lp-rl"
+  },
+  "Novus Renda Fixa Exclusive Seleção Longo Prazo": {
+    "cnpj": "47.539.700/0001-12",
+    "url": "https://maisretorno.com/fundo/novus-rf-exclusive-selecao-fif-da-classe-fic-lp-rl"
+  },
+  "Occam Equity Hedge FIC FIM": {
+    "cnpj": "11.403.956/0001-50",
+    "url": "https://maisretorno.com/fundo/occam-equity-hedge-fic-fi-financeiro-multimercado-rl-1"
+  },
+  "Occam Retorno Absoluto Seleção Multimercado": {
+    "cnpj": "45.682.579/0001-58",
+    "url": "https://maisretorno.com/fundo/franklin-long-bias-prev-fi-financeiro-da-cic-mult-rl"
+  },
+  "Porto Paineira CDI Seleção Infra Renda Fixa": {
+    "cnpj": "62.475.051/0001-27",
+    "url": "https://maisretorno.com/fundo/porto-paineira-cdi-selecao-fif-incentivado-deb-infra-da-cic-rf-cp-rl"
+  },
+  "Principal Claritas Hedge Multimercado": {
+    "cnpj": "39.960.120/0001-76",
+    "url": "https://maisretorno.com/fundo/claritas-hedge-advisory-fif-cotas-fim"
+  },
+  "Principal Claritas Institucional Feeder II": {
+    "cnpj": "41.888.721/0001-67",
+    "url": "https://maisretorno.com/fundo/principal-claritas-liquidez-master-fi-financeiro-multimercado"
+  },
+  "Principal Claritas Long Short Multimercado": {
+    "cnpj": "12.219.414/0001-95",
+    "url": "https://maisretorno.com/fundo/principal-claritas-long-short-master-fi-financeiro-multimercado"
+  },
+  "Quantitas Mallorca Seleção Multimercado": {
+    "cnpj": "51.752.331/0001-19",
+    "url": "https://maisretorno.com/fundo/quantitas-mallorca-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Sparta Max 60 FICFI Renda Fixa CP LP": {
+    "cnpj": "44.643.192/0001-20",
+    "url": "https://maisretorno.com/fundo/sparta-max-60-fic-fi-financeiro-rf-credito-priv-lp-rl-1"
+  },
+  "Sparta Top FIC FI Renda Fixa Cred Privado LP": {
+    "cnpj": "14.188.162/0001-00",
+    "url": "https://maisretorno.com/fundo/sparta-top-fic-fif-rf-cp-lp-rl-1"
+  },
+  "Sparta Top Inflação Renda Fixa CP LP": {
+    "cnpj": "38.026.926/0001-29",
+    "url": "https://maisretorno.com/fundo/sparta-top-inflacao-fic-fif-rf-cp-lp-rl-1"
+  },
+  "Valora Absolute Crédito Privado LP": {
+    "cnpj": "10.326.625/0001-00",
+    "url": "https://maisretorno.com/fundo/valora-absolute-fif-rf-cp-lp-rl"
+  },
+  "Vinci Auguri Multimercardo": {
+    "cnpj": "35.002.795/0001-51",
+    "url": "https://maisretorno.com/fundo/vinci-auguri-fi-financeiro-cotas-fim"
+  },
+  "Vinland Macro Seleção Multimercado": {
+    "cnpj": "36.249.245/0001-02",
+    "url": "https://maisretorno.com/fundo/vinland-macro-selecao-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "Vinland Renda Fixa Seleção": {
+    "cnpj": "47.541.046/0001-81",
+    "url": "https://maisretorno.com/fundo/vinland-rf-selecao-fif-cic-lp-rl"
+  },
+  "A1 Debêntures de Infra Renda Fixa": {
+    "cnpj": "59.591.550/0001-75",
+    "url": "https://maisretorno.com/fundo/a1-incentivado-fif-da-cic-incentivado-investimento-deb-infra-rf-cp-rl"
+  },
+  "AF Invest Minas Ações": {
+    "cnpj": "11.209.172/0001-96",
+    "url": "https://maisretorno.com/fundo/afi-minas-fi-financeiro-acoes"
+  },
+  "ALPHA KEY INSTITUCIONAL FIC FIA": {
+    "cnpj": "36.352.721/0001-08",
+    "url": "https://maisretorno.com/fundo/alphakey-institucional-fi-financeiro-cotas-fia"
+  },
+  "Alpha Key Long Short Multimercado": {
+    "cnpj": "52.304.477/0001-64",
+    "url": "https://maisretorno.com/fundo/alphakey-long-short-fi-financeiro-cotas-fim"
+  },
+  "Apex Infinity 8 Long Biased Ações": {
+    "cnpj": "15.862.830/0001-03",
+    "url": "https://maisretorno.com/fundo/apex-acoes-30-fic-fi-financeiro-acoes-rl"
+  },
+  "ARX Extra FIC FIM": {
+    "cnpj": "22.118.342/0001-43",
+    "url": "https://maisretorno.com/fundo/arx-extra-master-fi-financeiro-multimercado-rl"
+  },
+  "ARX Long Term Ações": {
+    "cnpj": "10.237.480/0001-62",
+    "url": "https://maisretorno.com/fundo/arx-long-term-fic-fif-acoes-rl"
+  },
+  "Arx Macro FIC FIM": {
+    "cnpj": "17.414.721/0001-40",
+    "url": "https://maisretorno.com/fundo/arx-macro-fic-fif-multimercado-rl"
+  },
+  "Az Quest Azimut Equity Allocation Trend": {
+    "cnpj": "40.102.910/0001-08",
+    "url": "https://maisretorno.com/fundo/az-quest-azimut-equity-china-dolar-cotas-fif-cic-acoes-ie-rl"
+  },
+  "AZ Quest Debêntures Incentivadas Multimercado CP": {
+    "cnpj": "25.213.405/0001-39",
+    "url": "https://maisretorno.com/fundo/az-quest-deb-incent-cp-fic-fif-incentivado-investimento-infraestrutura-rf"
+  },
+  "Az Quest Total Return Seleção Multimercado": {
+    "cnpj": "31.008.653/0001-40",
+    "url": "https://maisretorno.com/fundo/az-quest-total-return-selecao-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "B2V Crypto 100 Multimercado Invest. no Exterior": {
+    "cnpj": "29.236.318/0001-58",
+    "url": "https://maisretorno.com/fundo/b2v-crypto-100-fi-financeiro-multimercado-ie-rl"
+  },
+  "Brasil Capital 30 Seleção Ações": {
+    "cnpj": "31.933.918/0001-17",
+    "url": "https://maisretorno.com/fundo/itau-selecao-brasil-capital-30-fi-financeiro-da-cic-acoes-rl"
+  },
+  "Capitânia Infra 90 Renda Fixa Crédito Privado": {
+    "cnpj": "26.605.199/0001-75",
+    "url": "https://maisretorno.com/fundo/capitania-infra-90-fi-investimento-financeiro-cotas-incent-investimento-infra-rf"
+  },
+  "Dahlia Total Return Seleção Multimercado": {
+    "cnpj": "34.774.288/0001-73",
+    "url": "https://maisretorno.com/fundo/dahlia-total-return-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Equitas Selection Seleção Ações": {
+    "cnpj": "32.665.773/0001-83",
+    "url": "https://maisretorno.com/fundo/equitas-selection-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "Fama FIC FIA": {
+    "cnpj": "00.601.692/0001-23",
+    "url": "https://maisretorno.com/fundo/fama-fic-fi-financeiro-acoes-rl"
+  },
+  "Geo Empresas Globais Em Dolares IE": {
+    "cnpj": "28.075.532/0001-07",
+    "url": "https://maisretorno.com/fundo/geo-empresas-globais-dolares-fic-fif-acoes-ie-rl-1"
+  },
+  "Geo Empresas Globais Em Reais IE": {
+    "cnpj": "32.102.192/0001-33",
+    "url": "https://maisretorno.com/fundo/geo-empresas-globais-reais-fic-fif-acoes-ie-rl-1"
+  },
+  "Geo Sistemático de Qualidade em Ações": {
+    "cnpj": "36.352.424/0001-62",
+    "url": "https://maisretorno.com/fundo/geo-sistematico-qualidade-fic-fif-acoes-ie-rl"
+  },
+  "Hix Capital Ações": {
+    "cnpj": "07.317.588/0001-50",
+    "url": "https://maisretorno.com/fundo/hix-capital-fic-fia"
+  },
+  "Hix Capital Institucional Fundo de Invest em Cotas": {
+    "cnpj": "22.662.135/0001-55",
+    "url": "https://maisretorno.com/fundo/hix-capital-institucional-fi-financeiro-cotas-fia"
+  },
+  "Ibiuna Credit Seleção Multimercado CP": {
+    "cnpj": "48.094.425/0001-33",
+    "url": "https://maisretorno.com/fundo/ibiuna-credit-selecao-fif-cic-multimercado-cp-rl"
+  },
+  "Ibiuna Equities 30 Seleção Ações": {
+    "cnpj": "49.618.018/0001-40",
+    "url": "https://maisretorno.com/fundo/ibiuna-equities-30-selecao-fi-financeiro-da-cic-acoes-rl"
+  },
+  "Ibiuna Long Biased Seleção Multimercado": {
+    "cnpj": "49.618.243/0001-87",
+    "url": "https://maisretorno.com/fundo/ibiuna-long-biased-selecao-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "IP Atlas USD Ações": {
+    "cnpj": "35.939.847/0001-10",
+    "url": "https://maisretorno.com/fundo/ip-atlas-usd-fic-fi-financeiro-acoes-rl-1"
+  },
+  "IP Value Hedge BDR Nível I Seleção Ações": {
+    "cnpj": "39.413.178/0001-08",
+    "url": "https://maisretorno.com/fundo/ip-value-hedge-bdr-nivel-i-selecao-fif-da-cic-acoes-rl"
+  },
+  "JGP Debêntures Incentivadas Juros Reais 60": {
+    "cnpj": "54.237.051/0001-60",
+    "url": "https://maisretorno.com/fundo/jgp-debentures-incentivadas-juros-reais-60-fif-rfi-infra-cp-rl-1"
+  },
+  "JGP ESG Seleção Ações Investimento Sustentável": {
+    "cnpj": "38.267.982/0001-55",
+    "url": "https://maisretorno.com/fundo/jgp-esg-selecao-fif-da-cic-acoes-investimento-sustentavel-rl"
+  },
+  "Jgp Long Only Seleção": {
+    "cnpj": "37.555.105/0001-17",
+    "url": "https://maisretorno.com/fundo/jgp-long-only-selecao-fi-financeiro-da-cic-acoes-rl"
+  },
+  "Jubarte Migration II Multimercado": {
+    "cnpj": "53.643.941/0001-00",
+    "url": "https://maisretorno.com/fundo/jubarte-migration-ii-fic-fim"
+  },
+  "Kadima High Vol Seleção Multimercado": {
+    "cnpj": "48.133.182/0001-03",
+    "url": "https://maisretorno.com/fundo/kadima-high-vol-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Kapitalo Kappa Seleção Multimercado": {
+    "cnpj": "26.386.658/0001-77",
+    "url": "https://maisretorno.com/fundo/kapitalo-kappa-selecao-fif-cic-multimercado-rl"
+  },
+  "Kinitro 30 Multimercado": {
+    "cnpj": "42.731.202/0001-53",
+    "url": "https://maisretorno.com/fundo/kinitro-30-fi-financeiro-cotas-fim"
+  },
+  "Kinitro Top Multimercado": {
+    "cnpj": "13.503.226/0001-57",
+    "url": "https://maisretorno.com/fundo/kinitro-top-fi-financeiro-cotas-fim"
+  },
+  "Leblon Ações FIC FIA": {
+    "cnpj": "10.320.151/0001-80",
+    "url": "https://maisretorno.com/fundo/leblon-acoes-fic-fia"
+  },
+  "LEBLON AÇÕES II INSTITUCIONAL FICFIA": {
+    "cnpj": "26.768.800/0001-40",
+    "url": "https://maisretorno.com/fundo/leblon-acoes-ii-institucional-fic-fi-financeiro"
+  },
+  "Legacy Capital Credit Seleção Multimercado": {
+    "cnpj": "52.273.393/0001-00",
+    "url": "https://maisretorno.com/fundo/legacy-capital-credit-selecao-fif-cic-multimercado-cp-rl"
+  },
+  "Neo Navitas Seleção FIC FIA": {
+    "cnpj": "32.292.537/0001-69",
+    "url": "https://maisretorno.com/fundo/neo-navitas-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "POLO NORTE I LONG SHORT FIC FI MM": {
+    "cnpj": "17.373.839/0001-78",
+    "url": "https://maisretorno.com/fundo/polo-norte-master-fif-multimercado-rl"
+  },
+  "Porto Baobá Infraestrutura Renda Fixa": {
+    "cnpj": "50.037.999/0001-11",
+    "url": "https://maisretorno.com/fundo/porto-baoba-fic-incentivados-investimento-infraestrutura-rf"
+  },
+  "Porto SFA Ações": {
+    "cnpj": "07.187.517/0001-80",
+    "url": "https://maisretorno.com/fundo/porto-sfa-fi-financeiro-cotas-fia"
+  },
+  "Principal Claritas Long Bias Multimercado": {
+    "cnpj": "34.286.544/0001-83",
+    "url": "https://maisretorno.com/fundo/principal-claritas-long-bias-fi-financeiro-cotas-fim"
+  },
+  "Principal Claritas Quant Multimercado": {
+    "cnpj": "31.392.821/0001-44",
+    "url": "https://maisretorno.com/fundo/principal-claritas-quant-master-fi-financeiro-multimercado"
+  },
+  "Principal Claritas Total Return Multimercado": {
+    "cnpj": "29.298.540/0001-85",
+    "url": "https://maisretorno.com/fundo/principal-claritas-total-return-fic-fi-financeiro-multimercado-rl"
+  },
+  "RB Capital Infraestrutura Renda Fixa": {
+    "cnpj": "23.565.840/0001-05",
+    "url": "https://maisretorno.com/fundo/rb-capital-fic-incentivado-investimento-financeiro-infra-rf-rl"
+  },
+  "Sparta Debêntures Incentivadas Estratégico Infra": {
+    "cnpj": "50.038.992/0001-14",
+    "url": "https://maisretorno.com/fundo/sparta-deb-inc-estrat-fic-incentivados-investimento-financeiro-infraest-rf-rl"
+  },
+  "Sparta Debêntures Incentivadas Inflação Infra RF": {
+    "cnpj": "39.959.025/0001-52",
+    "url": "https://maisretorno.com/fundo/sparta-deb-inc-inflacao-fic-incent-investimento-financeiro-infraest-rf-rl"
+  },
+  "STUDIO LONG BIAS FIC MULTIMERCADO": {
+    "cnpj": "44.157.044/0001-03",
+    "url": "https://maisretorno.com/fundo/studio-long-bias-fic-fi-financeiro-multimercado-rl"
+  },
+  "Tarpon GT 90 Ações": {
+    "cnpj": "42.922.205/0001-74",
+    "url": "https://maisretorno.com/fundo/tarpon-gt-90-fi-financeiro-cotas-fia"
+  },
+  "Tenax Ações Seleção": {
+    "cnpj": "53.273.544/0001-93",
+    "url": "https://maisretorno.com/fundo/itau-kinea-nepal-fi-financeiro-da-cic-mult-cp-rl-1"
+  },
+  "Tenax Total Return Seleção Multimercado": {
+    "cnpj": "42.699.005/0001-02",
+    "url": "https://maisretorno.com/fundo/tenax-total-return-selecao-fif-da-cic-multimercado-rl"
+  },
+  "Truxt Long Bias Seleção Multimercado": {
+    "cnpj": "36.350.666/0001-17",
+    "url": "https://maisretorno.com/fundo/truxt-long-bias-selecao-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "Truxt Macro Seleção Multimercado": {
+    "cnpj": "25.306.783/0001-67",
+    "url": "https://maisretorno.com/fundo/truxt-macro-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "TRUXT VALOR SELEÇÃO FIC FIA": {
+    "cnpj": "25.306.800/0001-66",
+    "url": "https://maisretorno.com/fundo/truxt-valor-selecao-fif-cic-acoes-rl"
+  },
+  "Verde AM Mundi Ações Globais BRL": {
+    "cnpj": "37.013.129/0001-44",
+    "url": "https://maisretorno.com/fundo/verde-am-mundi-acoes-globais-brl-fif-classe-fic-acoes-rl-1"
+  },
+  "Vinland Crédito 10 Renda Fixa": {
+    "cnpj": "53.678.015/0001-70",
+    "url": "https://maisretorno.com/fundo/vinland-credito-10-fic-fi-rf"
+  },
+  "Vinland Macro Plus Multimercado Seleção": {
+    "cnpj": "41.734.805/0001-46",
+    "url": "https://maisretorno.com/fundo/vinland-macro-plus-multimercado-selecao-fi-financeiro-da-cic-rl"
+  },
+  "Plural Crédito Corporativo II Renda Fixa CP": {
+    "cnpj": "18.316.558/0001-46",
+    "url": "https://maisretorno.com/fundo/plural-credito-corporativo-ii-fic-fif-rf-cp-lp-responsabilidade-ltda"
+  },
+  "Absolute Alpha Global Multimercado": {
+    "cnpj": "21.983.042/0001-60",
+    "url": "https://maisretorno.com/fundo/absolute-alpha-global-fic-fi-financeiro-multimercado-rl"
+  },
+  "Absolute Hedge Seleção Multimercado": {
+    "cnpj": "28.280.961/0001-16",
+    "url": "https://maisretorno.com/fundo/absolute-hedge-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "BTG Pactual Explorer Renda Fixa Ativa Seleção LP": {
+    "cnpj": "48.107.119/0001-94",
+    "url": "https://maisretorno.com/fundo/btg-pactual-explorer-rf-ativa-selecao-fif-cic-lp-rl-1"
+  },
+  "Galapagos Evolution Multimercado Crédito Privado": {
+    "cnpj": "36.440.431/0001-16",
+    "url": "https://maisretorno.com/fundo/galapagos-evolution-fi-financeiro-cotas-fim"
+  },
+  "Ibiuna Hedge Seleção Multimercado": {
+    "cnpj": "22.428.762/0001-26",
+    "url": "https://maisretorno.com/fundo/ibiuna-hedge-selecao-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "JGP Corporate FIC FI Renda Fixa CP LP - Feeder VII": {
+    "cnpj": "42.767.750/0001-33",
+    "url": "https://maisretorno.com/fundo/jgp-corporate-fic-fif-rf-cp-lp-feeder-vii-rl"
+  },
+  "JGP Corporate Plus Multimercado Crédito Privado IU": {
+    "cnpj": "32.892.264/0001-93",
+    "url": "https://maisretorno.com/fundo/jgp-corporate-plus-fi-financeiro-da-cic-multimercado-cp-iu-rl"
+  },
+  "Root Capital Crédito HG Plus Multimercado CP": {
+    "cnpj": "42.405.028/0001-59",
+    "url": "https://maisretorno.com/fundo/root-capital-credito-hg-plus-fic-fif-multimercado-cp-rl"
+  },
+  "Root Capital High Yield Multimercado CP": {
+    "cnpj": "34.431.868/0001-68",
+    "url": "https://maisretorno.com/fundo/root-capital-high-yield-fi-financeiro-multimercado-cp-rl"
+  },
+  "XP Corporate Light Renda Fixa Crédito Privado": {
+    "cnpj": "11.046.179/0001-34",
+    "url": "https://maisretorno.com/fundo/xp-corporate-light-fic-fif-rf-cp-lp-rl"
+  },
+  "XP Corporate Top Crédito Privado Renda Fixa": {
+    "cnpj": "04.621.721/0001-70",
+    "url": "https://maisretorno.com/fundo/xp-corporate-top-cp-fi-financeiro-rf-lp-rl"
+  },
+  "Absolute Vertex Seleção Multimercado": {
+    "cnpj": "31.024.343/0001-10",
+    "url": "https://maisretorno.com/fundo/absolute-vertex-selecao-fif-da-classe-fic-multimercado"
+  },
+  "Adam Macro Seleção Multimercado": {
+    "cnpj": "25.382.586/0001-27",
+    "url": "https://maisretorno.com/fundo/adam-macro-selecao-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "ALPHA KEY FIC FIA": {
+    "cnpj": "34.839.385/0001-05",
+    "url": "https://maisretorno.com/fundo/alphakey-acoes-fi-financeiro-cotas-fia"
+  },
+  "Armor Axe Multimercado": {
+    "cnpj": "34.172.497/0001-47",
+    "url": "https://maisretorno.com/fundo/armor-axe-fi-financeiro-cotas-fim"
+  },
+  "AZ Quest Top Long Biased Ações": {
+    "cnpj": "13.974.750/0001-06",
+    "url": "https://maisretorno.com/fundo/az-quest-top-long-biased-fic-fi-financeiro-acoes"
+  },
+  "BTG PACTUAL ABSOLUTO FICFIA": {
+    "cnpj": "09.120.774/0001-20",
+    "url": "https://maisretorno.com/fundo/btg-pactual-absoluto-fi-financeiro-cotas-fia"
+  },
+  "BTG PACTUAL ABSOLUTO INSTITUCIONAL FICFIA": {
+    "cnpj": "11.977.794/0001-64",
+    "url": "https://maisretorno.com/fundo/btg-pactual-absoluto-institucional-fi-financeiro-cotas-fia"
+  },
+  "BTG PACTUAL ABSOLUTO LS FIC AÇÕES": {
+    "cnpj": "14.799.785/0001-19",
+    "url": "https://maisretorno.com/fundo/btg-pactual-absoluto-ls-fi-financeiro-cotas-fia"
+  },
+  "BTG Pactual Dividendos Fundo de Quotas Ações": {
+    "cnpj": "09.290.813/0001-38",
+    "url": "https://maisretorno.com/fundo/btg-pactual-dividendos-fi-financeiro-cotas-fia"
+  },
+  "Constellation IQ Seleção Ações": {
+    "cnpj": "40.694.524/0001-44",
+    "url": "https://maisretorno.com/fundo/constellation-iq-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "Exploritas Latam Ações": {
+    "cnpj": "35.725.802/0001-43",
+    "url": "https://maisretorno.com/fundo/exploritas-latam-fic-fia"
+  },
+  "Franklin Valor e Liquidez FVL Ações": {
+    "cnpj": "02.895.694/0001-06",
+    "url": "https://maisretorno.com/fundo/franklin-valor-liquidez-fvl-fi-financeiro-acoes-rl"
+  },
+  "Gávea Macro Seleção Multimercado": {
+    "cnpj": "25.682.163/0001-22",
+    "url": "https://maisretorno.com/fundo/gavea-macro-selecao-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "Genoa Capital Radar Seleção Multimercado": {
+    "cnpj": "37.348.037/0001-15",
+    "url": "https://maisretorno.com/fundo/genoa-capital-radar-selecao-fif-da-cic-multimercado-rl"
+  },
+  "Giant Darius Seleção Multimercado": {
+    "cnpj": "37.663.536/0001-05",
+    "url": "https://maisretorno.com/fundo/giant-darius-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Guepardo Institucional Ações": {
+    "cnpj": "13.966.584/0001-04",
+    "url": "https://maisretorno.com/fundo/guepardo-institucional-60-fic-fia"
+  },
+  "Guepardo Long Bias RV Multimercado": {
+    "cnpj": "24.623.392/0001-03",
+    "url": "https://maisretorno.com/fundo/guepardo-long-bias-rv-fim"
+  },
+  "Ibiuna Hedge STR Multimercado Seleção": {
+    "cnpj": "42.282.089/0001-76",
+    "url": "https://maisretorno.com/fundo/ibiuna-hedge-str-multimercado-selecao-fif-cic-rl"
+  },
+  "Ibiuna Long Short Stls Seleção Multimercado": {
+    "cnpj": "28.077.900/0001-56",
+    "url": "https://maisretorno.com/fundo/ibiuna-long-short-stls-selecao-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "Legacy Capital Seleção Multimercado": {
+    "cnpj": "31.341.469/0001-18",
+    "url": "https://maisretorno.com/fundo/legacy-capital-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Legacy Capital V10 Seleção Multimercado": {
+    "cnpj": "54.953.009/0001-46",
+    "url": "https://maisretorno.com/fundo/legacy-capital-v10-selecao-fif-da-classe-fic-multimercado-rl-1"
+  },
+  "Mantaro Capital Ações Seleção": {
+    "cnpj": "35.363.737/0001-53",
+    "url": "https://maisretorno.com/fundo/mantaro-capital-acoes-selecao-fif-da-cic-acoes-rl"
+  },
+  "Módulo Core Ações BDR Nível I": {
+    "cnpj": "29.599.351/0001-42",
+    "url": "https://maisretorno.com/fundo/modulo-core-master-fia-bdr-nivel-i"
+  },
+  "Módulo I FIC FI Ações": {
+    "cnpj": "19.186.860/0001-90",
+    "url": "https://maisretorno.com/fundo/modulo-i-fic-fi-financeiro-acoes-rl"
+  },
+  "Morgan Stanley US Advantage Equity USD Seleção": {
+    "cnpj": "37.663.456/0001-41",
+    "url": "https://maisretorno.com/fundo/itau-selecao-morgan-stanley-us-advantage-equity-usd-mult-ie-fif-da-cic-rl"
+  },
+  "Navi Cruise Seleção Ações": {
+    "cnpj": "35.727.535/0001-43",
+    "url": "https://maisretorno.com/fundo/navi-cruise-selecao-fi-financeiro-da-cic-acoes-rl"
+  },
+  "Neo Multi Estratégia 30 Seleção Multimercado": {
+    "cnpj": "28.851.732/0001-04",
+    "url": "https://maisretorno.com/fundo/neo-multi-estrategia-30-selecao-fi-financeiro-da-cic-multimercado-rl"
+  },
+  "Occam Long & Short Plus FIC Multimercado": {
+    "cnpj": "17.164.789/0001-19",
+    "url": "https://maisretorno.com/fundo/occam-long-short-plus-fic-fif-multimercado-rl-1"
+  },
+  "Oceana Long Bias Seleção Multimercado": {
+    "cnpj": "37.348.061/0001-54",
+    "url": "https://maisretorno.com/fundo/oceana-long-biased-selecao-fi-fif-cic-mult-rl"
+  },
+  "Opportunity Global Equity Real Ações BDR Nível I": {
+    "cnpj": "46.372.615/0001-40",
+    "url": "https://maisretorno.com/fundo/opportunity-global-equity-real-master-institucional-fif-acoes-ie-rl"
+  },
+  "Perfin Infra Equity Alocadores Ações": {
+    "cnpj": "39.344.972/0001-39",
+    "url": "https://maisretorno.com/fundo/perfin-infra-equity-master-fia"
+  },
+  "Real Investor Ações": {
+    "cnpj": "10.500.884/0001-05",
+    "url": "https://maisretorno.com/fundo/real-investor-fic-fi-financeiro-acoes-rl"
+  },
+  "Real Investor Multimercado": {
+    "cnpj": "28.911.549/0001-57",
+    "url": "https://maisretorno.com/fundo/real-investor-fic-fi-financeiro-multimercado-rl"
+  },
+  "Sharp Equity Value Seleção Ações": {
+    "cnpj": "36.249.269/0001-53",
+    "url": "https://maisretorno.com/fundo/sharp-equity-value-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "Sharp Long Biased Seleção Ações": {
+    "cnpj": "40.209.167/0001-81",
+    "url": "https://maisretorno.com/fundo/sharp-long-biased-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "Studio 30 Ações": {
+    "cnpj": "17.301.119/0001-05",
+    "url": "https://maisretorno.com/fundo/studio-30-fic-fi-financeiro-acoes-rl"
+  },
+  "Tavola Equity Hedge 15 Multimercado": {
+    "cnpj": "40.575.693/0001-65",
+    "url": "https://maisretorno.com/fundo/tavola-equity-hedge-15-fi-financeiro-multimercado"
+  },
+  "Tork 60 Seleção Ações": {
+    "cnpj": "36.249.284/0001-00",
+    "url": "https://maisretorno.com/fundo/tork-60-selecao-fif-cic-acoes-rl"
+  },
+  "Vista Hedge Multimercado Seleção": {
+    "cnpj": "41.342.624/0001-74",
+    "url": "https://maisretorno.com/fundo/vista-hedge-multimercado-selecao-fif-da-classe-fic-rl"
+  },
+  "XP Debentures Incentivadas CDI Crédito Privado": {
+    "cnpj": "26.803.233/0001-16",
+    "url": "https://maisretorno.com/fundo/xp-deb-incent-cdi-cp-fif-incentivado-investimento-infraestrutura-rf-rl"
+  },
+  "XP Debentures Incentivadas Crédito Privado": {
+    "cnpj": "19.657.463/0001-59",
+    "url": "https://maisretorno.com/fundo/xp-deb-incent-imab-cp-incentivado-investimento-financeiro-infra-rf-rl"
+  },
+  "Asa Alpha Nominal Rates Renda Fixa Longo Prazo": {
+    "cnpj": "51.854.924/0001-96",
+    "url": "https://maisretorno.com/fundo/asa-alpha-nominal-rates-fic-fi-rf-lp"
+  },
+  "XP Corporate Plus Multimercado Crédito Privado": {
+    "cnpj": "23.999.611/0001-90",
+    "url": "https://maisretorno.com/fundo/xp-corporate-plus-fic-fi-financeiro-multimercado-cp-rl"
+  },
+  "Adam Macro Strategy Seleção Multimercado": {
+    "cnpj": "28.075.078/0001-94",
+    "url": "https://maisretorno.com/fundo/adam-macro-strategy-selecao-multimercado-fi-financeiro-da-cic-rl"
+  },
+  "Kapitalo Zeta Merídia Seleção Multimercado": {
+    "cnpj": "48.068.979/0001-66",
+    "url": "https://maisretorno.com/fundo/kapitalo-zeta-meridia-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Kapitalo Zeta Seleção Multimercado": {
+    "cnpj": "41.163.578/0001-46",
+    "url": "https://maisretorno.com/fundo/kapitalo-zeta-selecao-multimercado-fif-da-classe-fic-rl"
+  },
+  "Kiron Ações": {
+    "cnpj": "25.213.366/0001-70",
+    "url": "https://maisretorno.com/fundo/kiron-fic-fi-financeiro-acoes-rl"
+  },
+  "Organon Institucional Ações": {
+    "cnpj": "49.984.812/0001-08",
+    "url": "https://maisretorno.com/fundo/organon-institucional-fi-financeiro-cotas-fia"
+  },
+  "SPX Nimitz Seleção Multimercado": {
+    "cnpj": "28.851.728/0001-46",
+    "url": "https://maisretorno.com/fundo/spx-nimitz-selecao-fif-da-classe-fic-multimercado-rl"
+  },
+  "Tavola Absoluto Multimercado II": {
+    "cnpj": "34.096.196/0001-81",
+    "url": "https://maisretorno.com/fundo/tavola-absoluto-ii-fi-financeiro-cotas-fim"
+  },
+  "Verde AM Long Bias Seleção Ações": {
+    "cnpj": "39.642.728/0001-52",
+    "url": "https://maisretorno.com/fundo/verde-am-long-bias-selecao-fif-da-classe-fic-acoes-rl"
+  },
+  "JGP Equity Explorer 30 Seleção Ações": {
+    "cnpj": "26.277.746/0001-30",
+    "url": "https://maisretorno.com/fundo/jgp-equity-explorer-30-selecao-fif-cic-acoes-rl"
+  },
+  "Kapitalo K10 Seleção Multimercado": {
+    "cnpj": "10.397.617/0001-46",
+    "url": "https://maisretorno.com/fundo/itau-premium-rf-referenciado-di-fif-da-classe-fic-rl-1"
+  },
+  "Itaú Solutions Rígel Multmercado": {
+    "cnpj": "57.653.905/0001-88",
+    "url": "https://maisretorno.com/fundo/itau-solutions-rigel-fi-financeiro-da-cic-mult-rl-1"
+  },
+  "Itaú Solutions Vega Multimercado": {
+    "cnpj": "58.159.080/0001-02",
+    "url": "https://maisretorno.com/fundo/itau-solutions-vega-fif-da-classe-fic-mult-rl"
+  },
+  "JGP Max Seleção Multimercado": {
+    "cnpj": "17.420.140/0001-11",
+    "url": "https://maisretorno.com/fundo/jgp-max-selecao-multimercado-fif-da-classe-fic-rl"
+  },
+  "Verde AM Patrimônio Seleção Multimercado": {
+    "cnpj": "17.420.054/0001-09",
+    "url": "https://maisretorno.com/fundo/verde-am-patrimonio-selecao-multimercado-fif-da-classe-fic-rl"
+  },
+  "Adam Advanced PVT Multimercado Crédito Privado": {
+    "cnpj": "36.348.543/0001-41",
+    "url": "https://maisretorno.com/fundo/adam-advanced-pvt-fif-cic-multimercado-cp-ie-rl"
+  },
+  "Verde 60 MM Seleção Multimercado": {
+    "cnpj": "31.024.283/0001-35",
+    "url": "https://maisretorno.com/fundo/verde-60-multimercado-selecao-fif-da-classe-fic-rl"
+  },
+  "SPX Raptor Seleção Multimercado Crédito Privado": {
+    "cnpj": "60.916.614/0001-40",
+    "url": "https://maisretorno.com/fundo/spx-raptor-selecao-fif-cic-multimercado-cp-rl"
+  }
+}
